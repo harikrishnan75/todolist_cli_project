@@ -1,4 +1,4 @@
-HI! my name is harikrishnan D
+HI!, my name is harikrishnan D
 
 <-- TODOLIST APP MENU -->
     1. Add Task
