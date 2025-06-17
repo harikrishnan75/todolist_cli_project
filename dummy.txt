@@ -1,2 +1,8 @@
 HI! my name is harikrishnan D
- 
+
+<-- TODOLIST APP MENU -->
+    1. Add Task
+    2. Delete Task
+    3. View Tasks
+    4. Mark Task as Completed
+    5. Exit
